@@ -94,7 +94,3 @@ The dataset contains structured mobile sales transaction data, including:
 - Certain cities contribute disproportionately to overall revenue
 - Customer ratings positively correlate with higher-priced models
 - Sales performance shows noticeable variation across different days of the week
-
----
-
-## 📁 Project Structure
